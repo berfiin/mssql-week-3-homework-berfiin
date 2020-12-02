@@ -1,3 +1,3 @@
----- 1.soru Benim tablom için --
+--1.Soru--
 
-Select Product_id,Price,Product_name from Product
+select urunAd,urunKod,listeFiyat  from tblUrun
